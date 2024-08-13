@@ -3,8 +3,8 @@
 #define APP_TITLE "ESP32CAM-RTSP"
 #define APP_VERSION "1.0"
 
-#define WIFI_SSID "ESP32CAM-RTSP"
-#define WIFI_PASSWORD nullptr
+#define WIFI_SSID "OnesNet2"
+#define WIFI_PASSWORD "athiest15"
 #define CONFIG_VERSION "1.6"
 
 #define OTA_PASSWORD "ESP32CAM-RTSP"
